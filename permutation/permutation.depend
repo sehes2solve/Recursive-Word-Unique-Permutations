@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551638778 source:e:\computer science\college\year 2\datastructures\permutation\main.cpp
+	<iostream>
+	<cstring>
+	<set>
+
+1551901363 source:e:\computer science\college\year 2\term 2\datastructures\assignments\permutation\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<set>
+
